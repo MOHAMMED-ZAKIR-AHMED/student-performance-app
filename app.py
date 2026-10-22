@@ -20,7 +20,7 @@ with st.sidebar:
     st.write("This app uses a **Linear Regression** model trained on student data "
              "to predict a **Performance Index** between 10 and 100.")
     st.write("Built with Python, scikit-learn and Streamlit.")
-    st.caption("Made by YOUR NAME")
+    st.caption("Built by ZAKIR AHMED")
 
 # ---------- Title and inputs ----------
 st.title("🎓 Student Performance Predictor")
